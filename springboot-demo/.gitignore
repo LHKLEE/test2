@@ -1,0 +1,15 @@
+# Maven 构建产物
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# 日志
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
